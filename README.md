@@ -1,3 +1,13 @@
+# Instructions for using this template
+
+1. Can create an empty repository for your new project e.g. on github.
+2. Clone it to your local hdd.
+3. Download the code in this repository as a zip file (ie don't clone the code, use the code download button e.g. on github click the green button and select the download option. This will will zip the entire repository with only the latest source files). 
+4. Extract the zip into your cloned repository.
+5. Commit the extracted files to your new repository.
+
+DELETE THIS LINE AND ALL TEXT ABOVE 
+
 # Your repository name
 
 Python module for ...

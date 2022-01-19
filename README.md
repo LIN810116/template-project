@@ -30,11 +30,13 @@ the university or via VPN - add link
 ### From the terminal
 1. Clone the repository to your local machine.
 
-2. Navigate to the docs/
+2. Install dependencies by `pip install -r requirements.txt`
 
-3. Issue the command: `make html`
+3. Navigate to the docs/
 
-4. Open the index.html file in `docs/build/` folder
+4. Issue the command: `make html`. If you get an error saying "Pandoc is missing", you might need to install Pandoc separately by "sudo apt-get install pandoc"
+
+5. Open the index.html file in `docs/build/` folder
 
 See the following [instructions](https://research-software-development-tutorials.readthedocs.io/en/latest/beginner/documenting_code/updating_documentation.html#updating-documentation) for more information regarding updating documentation.
 
